@@ -6,6 +6,8 @@
 #include <linux/i2c-dev.h>
 #include <unistd.h>  // Add this include for close()
 
+
+
 int main() {
     int i2c_bus;
     int n;
